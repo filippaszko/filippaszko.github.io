@@ -21,4 +21,4 @@ W czasie wolnym opiekuję się moimi trzema kotami (kiedyś je wam pokażę) i a
 
 Treści tutaj publikowane nie mają charakteru absolutnych prawd. Służą przede wszystkim uporządkowaniu mojej wiedzy oraz prezentacji własnej perspektywy, opartej na doświadczeniach zawodowych oraz na teoriach, które poznałem i znałem za warte dalszej eksploracji, a czasem sprawdzenia w rzeczywistości.
 
-Gdybyście chcieli ze mną pogadać, na dole strony znajdziecie mojego maila.
+Gdybyście chcieli ze mną pogadać, na dole strony znajdziecie mojego maila. 
