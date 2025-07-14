@@ -18,14 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-<<<<<<< HEAD
-title: under construction (but already delayed)
-email: fpaszko@wp.pl
-=======
 title: "under construction (but already delayed)"
 email: "fpaszko@wp.pl"
 name: "Filip Paszko"
->>>>>>> 947fe67 (About page update)
 description: >- # this means to ignore newlines until "baseurl:"
   Sh#tposting about IT analysis, architecture, people and relationships between them; mostly in polish
 baseurl: "" # the subpath of your site, e.g. /blog
