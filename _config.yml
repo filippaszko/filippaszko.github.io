@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "under construction (but already delayed)"
+title: "project in regress (and already delayed)"
 email: "fpaszko@wp.pl"
 name: "Filip Paszko"
 description: >- # this means to ignore newlines until "baseurl:"
